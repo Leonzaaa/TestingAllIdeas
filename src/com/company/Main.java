@@ -12,14 +12,6 @@ public class Main {
         staticClass.setCount(2);
 
         System.out.println("print message");
-        System.out.println("print message2");
-        System.out.println("print message3");
-
-
-
-        System.out.println("print message");
-        System.out.println("print message2");
-        System.out.println("print message3");
         System.out.println(StaticClass.count);
     }
 }
