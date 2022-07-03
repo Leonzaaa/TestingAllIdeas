@@ -11,6 +11,7 @@ public class Main {
         staticClass.setCount(1);
         staticClass.setCount(2);
 
+        System.out.println("print message");
         System.out.println(StaticClass.count);
     }
 }
